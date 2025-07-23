@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,rust,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,quarkus,hibernate)](https://skillicons.dev)
