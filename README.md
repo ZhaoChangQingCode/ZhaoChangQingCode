@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,rust,go)](https://skillicons.dev)
-## DBs
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,rust,go,c,mysql,postgresql,vue)](https://skillicons.dev)
