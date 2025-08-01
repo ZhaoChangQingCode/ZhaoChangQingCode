@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,rust,go,c,mysql,postgresql,vue,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,java,rust,go,c,mysql,postgresql,vue,tailwindcss,spring,linux,bsd)](https://skillicons.dev)
